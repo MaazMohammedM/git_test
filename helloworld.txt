@@ -1,2 +1,3 @@
 console.log('this is some text');
 this is my another file
+this is some bug fix code in main
