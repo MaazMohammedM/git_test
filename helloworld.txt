@@ -1,3 +1,4 @@
 console.log('this is some text');
 this is my another file
-this is some bug fix code in main
+so this is a feature branch and it is a diffrent branch
+this feature is complete let merge
